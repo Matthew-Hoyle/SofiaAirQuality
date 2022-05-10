@@ -3,6 +3,12 @@
 
 ## Notebooks
 
+- 01_SofiaAnalysis.ipynb
+  - Initial ANOVA testing
+- 02_SofiaANOVA.ipynb
+  - One-way ANOVA's
+- 03_SofiaRegression.ipynb
+  - Linear regression models
 - AssignSensorDistricts.ipynb
   - Using district polygons and sensors latitude and longitudes to assign sensors to districts
 - CompileDataset.ipynb
@@ -13,8 +19,7 @@
   - Use latitude and longitude coordinates from .kml file to create district polygon mapping
 - SofiaEDA.ipynb
   - Exploratory data analysis
-- Sofia_Analysis.ipynb
-  - ANOVA tests
+
 
 
 
